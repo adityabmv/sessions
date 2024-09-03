@@ -86,12 +86,14 @@ Here are function-wise one-liner prompts for Gemini to generate the code in Goog
 
 2. **`cumulative_proportion_ones(L)`**: "Create a Python function in Colab that takes a list of 0s and 1s and returns the cumulative proportion of 1s at each position."
 
-3. **Plotting Cumulative Proportion**: "Write Python code in Colab to plot the cumulative proportion of 1s from a list generated with a specific zero probability using Matplotlib."
+3. Create parameters p_zero, n, n_small, window_size
 
-4. **Error Calculation**: "Generate Python code in Colab to calculate and plot the error between the cumulative proportion of 1s and the expected value over time."
+4. **Plotting Cumulative Proportion**: "Write Python code in Colab to plot the cumulative proportion of 1s from a list generated with a specific zero probability using Matplotlib."
 
-5. **Sliding Window Average Error Calculation**: "Create Python code in Colab that computes and prints the average error of cumulative proportions in a sliding window from a list of binary values."
+5. **Error Calculation**: "Generate Python code in Colab to calculate and plot the error between the cumulative proportion of 1s and the expected value over time."
 
-6. **Error Display with Delay**: "Write Python code in Colab to print the first few errors from a list of calculated errors with a delay between each print."
+6. **Sliding Window Average Error Calculation**: "Create Python code in Colab that computes and prints the average error of cumulative proportions in a sliding window from a list of binary values."
+
+7. **Error Display with Delay**: "Write Python code in Colab to print the first few errors from a list of calculated errors with a delay between each print."
 
 These prompts will help break down the code into individual functions and tasks.
